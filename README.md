@@ -1,8 +1,4 @@
-<div style="display:flex;justify-content:space-between;">
-<h2 style="color:rgb(66, 140, 187)">Hi, I'm Soheil</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0h311&hide=roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</div>
+<h3 style="color:rgb(66, 140, 187)">Hi, I'm Soheil</h3>
 
 #### Contacts
 
@@ -30,3 +26,7 @@
   Lead at HAW Hamburg
 
 ---
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0h311&hide=roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
