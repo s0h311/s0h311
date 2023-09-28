@@ -29,4 +29,4 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0h311&hide=roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0h311&hide=roff,mdx&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
