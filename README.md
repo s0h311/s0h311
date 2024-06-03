@@ -9,7 +9,7 @@
 
 #### Interests
 
-- <span style="color:rgb(66, 140, 187)">TypeScript</span> & <span style="color:rgb(95, 67, 223)">WASM</span>
+- <span style="color:rgb(66, 140, 187)">TypeScript</span> & <span style="color:rgb(95, 67, 223)">Golang</span>
 - <span style="color:rgb(97, 176, 131)">Vue - Nuxt</span> & <span style="color:rgb(115, 209, 240)">React - Next</span>
 - Web APIs
 - Reading about history, psychology and philosophy
@@ -24,6 +24,7 @@
   <span style="color:rgb(241, 191, 66)">Student</span>
   <span style="color:rgb(88, 165, 93)">Club</span>
   Lead at HAW Hamburg
+- Co-founder of <a href="https://reffect.org">Reffect</a>  
 
 ---
 
