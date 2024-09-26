@@ -19,12 +19,7 @@
 #### Work
 
 - Full Stack Developer at CHECK24
-- <span style="color:rgb(83, 131, 236)">Google</span>
-  <span style="color:rgb(216, 80, 64)">Developer</span>
-  <span style="color:rgb(241, 191, 66)">Student</span>
-  <span style="color:rgb(88, 165, 93)">Club</span>
-  Lead at HAW Hamburg
-- Co-founder of <a href="https://reffect.org">Reffect</a>  
+- Curious about software architecture
 
 ---
 
