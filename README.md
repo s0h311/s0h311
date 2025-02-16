@@ -1,4 +1,4 @@
-<h3 style="color:rgb(66, 140, 187)">Hi, I'm Soheil</h3>
+### Hi, I'm Soheil
 
 #### Contacts
 
@@ -9,17 +9,15 @@
 
 #### Interests
 
-- <span style="color:rgb(66, 140, 187)">TypeScript</span> & <span style="color:rgb(95, 67, 223)">Golang</span>
-- <span style="color:rgb(97, 176, 131)">Vue - Nuxt</span> & <span style="color:rgb(115, 209, 240)">React - Next</span>
-- Web APIs
+- JavaScript & Golang
+- Software Architecture & Frontend Tooling
 - Reading about history, psychology and philosophy
 
 ---
 
 #### Work
 
-- Full Stack Developer at CHECK24
-- Curious about software architecture
+- Full Stack Engineer at CHECK24 working with Angular & PHP
 
 ---
 
